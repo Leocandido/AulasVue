@@ -1,0 +1,9 @@
+.botao{
+    background-color: rgb(170, 115, 221);
+    border: none;
+    color: #fff;
+}
+.botao:hover{
+    background-color: #fff;
+    color: rgb(170, 115, 221);
+}
